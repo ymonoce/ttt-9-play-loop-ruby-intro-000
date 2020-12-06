@@ -40,7 +40,7 @@ end
 def play (board)
 
 counter = 0
-loop while counter < 9
+while counter < 9
 
   turn
   counter += 1
